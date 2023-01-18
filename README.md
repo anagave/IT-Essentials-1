@@ -1,10 +1,9 @@
 # IT-Essentials
-Everyday update
-
-Completed Tasks:
-LINUX
-SDLC
-Testing
-CI/CD
-JIRA
-OOPS Concepts
+Everyday update <br/>
+Completed Tasks: <br/>
+LINUX <br/>
+SDLC <br/>
+Testing <br/>
+CI/CD <br/>
+JIRA <br/>
+OOPS Concepts <br/>
