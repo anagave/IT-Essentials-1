@@ -7,4 +7,4 @@ Testing <br/>
 CI/CD <br/>
 JIRA <br/>
 OOPS Concepts <br/>
-Share Point <br/>
+Share Point, Confluence <br/>
