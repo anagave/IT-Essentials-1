@@ -5,7 +5,7 @@ class Newest {
 int s;
 public int sum(int a, int b){
 	s = a+b;
-	System.out.println(s);
+	System.out.println("sum is" + s);
 	return s;
 }
 
