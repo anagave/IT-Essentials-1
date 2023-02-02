@@ -8,3 +8,5 @@ CI/CD <br/>
 JIRA <br/>
 OOPS Concepts <br/>
 Share Point, Confluence <br/>
+Database, GIT <br/>
+Finish:
